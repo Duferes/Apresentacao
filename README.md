@@ -3,10 +3,10 @@
 Olá, eu sou o Eduardo Feres
 
 
-<div align="center">
+<div align="west">
   <a href="https://github.com/duferes">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=duferes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duferes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=duferes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duferes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Meus Hobbies
