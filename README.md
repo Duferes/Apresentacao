@@ -17,8 +17,8 @@ Olá, eu sou o Eduardo Feres
 
 ## Atualmente estudando
 
-- Plataforma staart, grupo primo
-- Procurando assuntos sobre desenvolvimento de padrões
+- HTML, CSS
+- Python Web - framework Django
 
 ## Contatos
 
