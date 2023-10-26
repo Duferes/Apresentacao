@@ -13,12 +13,13 @@ Olá, eu sou o Eduardo Feres
 
 - Leitura de livros de desenvolvimento pessoal
 - Jogos, em geral RPG
-- Assistir jogos de futebol
+- Futebol
 
 ## Atualmente estudando
 
 - HTML, CSS
 - Python Web - framework Django
+- Python - Análise de dados, biblioteca pandas e numpy
 
 ## Contatos
 
