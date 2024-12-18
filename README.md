@@ -1,6 +1,12 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Eduardo Feres
+Desenvolvedor Web em constante evolução, apaixonado por programação e com muita vontade de contribuir com projetos que façam a diferença na vida das pessoas. 
+
+Com experiência em HTML, CSS e JavaScript, estou trabalhando e me especializando nos frameworks ReactJS e NextJS, e gostando muito de me atualizar nesse universo.
+
+Estou sempre buscando aprender novas ferramentas e metodologias para criar soluções inovadoras. Minha jornada no desenvolvimento é guiada por um desejo de transformar ideias em realidades digitais eficientes e funcionais de forma a fazer a diferença e ser reconhecido.
+
+Se você está em busca de uma pessoa que está comprometida em melhorar 1% todos os dias, com comprometimento nos projetos envolvidos, então se conecte comigo, será um prazer em trocar ideias e compartilhar experiências.
 
 
 <div align="west">
